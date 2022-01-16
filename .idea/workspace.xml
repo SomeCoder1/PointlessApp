@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e7ce216-8596-498c-85b2-8e4cb0c3a240" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stuff/AppGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stuff/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointlessApp/Stuff/AppGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PointlessApp/Stuff/AppGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointlessApp/Stuff/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PointlessApp/Stuff/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stuff/AppGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stuff/AppGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stuff/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stuff/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
